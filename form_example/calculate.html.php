@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body>
+    <body bgcolor="#E6E6FA">
         <form action="calculate.php" method="GET">
             <input type="text" value="" name="edad"/>
             <input type="submit" name="" value="Calculate"/>
